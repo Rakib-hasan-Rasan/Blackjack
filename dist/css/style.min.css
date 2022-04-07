@@ -42,6 +42,7 @@ Version : 1.0
 body {
   margin: 0;
   padding: 0;
+  height: 100vh;
   font-family: var(--font-family);
   background: url(../img/bg.jpg) no-repeat center/cover;
   color: var(--text-color); }
